@@ -97,8 +97,11 @@ L'adresse IP doit être celle du PC qui exécute Mosquitto.
 
 Le dataset complet n'est pas versionné dans GitHub car il contient des fichiers volumineux. Voir `dataset/README.md`.
 
+## Rapport
+
+Le rapport final du projet est disponible ici : [`docs/rapport-pfe.pdf`](docs/rapport-pfe.pdf).
+
 ## Auteurs
 
 - Mohamed Fettache
 - Ilyas Najim
-
