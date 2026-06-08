@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.venv*/
+venv/
+env/
+
+# Node / React
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+/package.json
+/package-lock.json
+
+# Logs and local runtime files
+*.log
+logs/
+.codex-run-logs/
+*.tmp
+*.bak
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.*
+credentials.*
+*.pem
+*.key
+
+# Large datasets and packet captures
+dataset/Data/
+*.pcap
+*.pcapng
+*.csv
+!dataset/README.md
+
+# Generated report/debug assets
+rapport_assets/
+rapport_current_text.txt
+
+# Editors / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

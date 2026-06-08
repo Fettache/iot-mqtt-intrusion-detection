@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.recharts-wrapper svg {
+  overflow: visible !important;
+}
